@@ -1,12 +1,12 @@
 [README.md](https://github.com/user-attachments/files/27079312/README.md)
 
-# ⚡ EV Flexibility Project
+#  EV Flexibility Project
 
 > **AI-powered smart charging optimization for electric vehicles** — using Machine Learning to maximize grid flexibility and prioritize critical charging sessions under constrained capacity.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
